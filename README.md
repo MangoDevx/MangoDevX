@@ -1,3 +1,5 @@
 ![PagePhoto](https://github.com/MangoDevx/MangoDevX/blob/main/MangoDevXTwo.png)
--	💻 I'm a student working hard for my Computer Science bachelor's degree
--	😀 Right now my focus is just practice and making projects I find fun
+-	🎓 Bachelor's of Science - Computer Science
+-	🏢 Last job: Summer Intern @ SRT Group (DoD Contractor)
+    - There I designed and created an internal tool that is used to increase efficiency in debugging
+-	💻 In my spare time I studied AI and I have kept up to date with the latest technology
