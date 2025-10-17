@@ -2,7 +2,7 @@
 # Hi, I'm Keith 👋
 
 💻 Software Engineer that specializes in .NET / C#.<br>
-Current Project -> 💼 Work: I build an Avalonia application to handle quality control & operational processes for manufacturing.
+Current Project -> 📅 Planning Pal, a sophisticated high-tech digital planner
 
 ## Skills 🧑‍💻
 
