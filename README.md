@@ -2,7 +2,7 @@
 # Hi, I'm Keith 👋
 
 💻 Software Engineer that specializes in .NET / C#.<br>
-Current Project -> 📅 Planning Pal, a sophisticated high-tech digital planner
+Current Project -> 📅 [Planning Pal](https://planning.keithrm.com/), a sophisticated high-tech digital planner
 
 ## Skills 🧑‍💻
 
