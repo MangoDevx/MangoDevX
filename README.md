@@ -7,7 +7,7 @@ Current Project -> 📅 [Planning Pal](https://planning.keithrm.com/), a sophist
 ## Skills 🧑‍💻
 
 * Languages & Frameworks:
-  * C# (Latest: C# 13) & .NET (Framework/Core) (Latest: .NET 9)
+  * C# (Latest: C# 14) & .NET (Framework/Core) (Latest: .NET 10)
     * Entity Framework / EF Core
     * WPF, Avalonia
   * TypeScript, HTML, CSS
