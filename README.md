@@ -11,8 +11,8 @@ Current Project -> 📅 [Planning Pal](https://planning.keithrm.com/), a sophist
     * APIs (ASP), Database Management, Avalonia, WPF
   * Web: TypeScript, JavaScript, HTML, CSS, Flutter (Web)
     * React, NextJs, Tailwind, Bootstrap, Astro, Vue
-  * Other: Python, Java, GoLang, Flutter (Mobile)
-* Tools: Git & Github, SQL, PowerBI, SSRS, ERP
+  * Other: SQL, Python, Java, GoLang, Flutter (Mobile)
+* Tools: Git & Github, PowerBI, SSRS, ERP (SAP)
 * Interests: full‑stack development, back-end development, front-end development, business process devlopment, manufacturing systems
 
 ## Experience 🔑
