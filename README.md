@@ -7,10 +7,10 @@ Current Project -> 📅 [Planning Pal](https://planning.keithrm.com/), a sophist
 ## Skills 🧑‍💻
 
 * Languages & Frameworks:
-  * C# (Latest: C# 14) & .NET (Framework/Core) (Latest: .NET 10)
-    * Entity Framework / EF Core
-    * WPF, Avalonia
-  * TypeScript/JavaScript/Html/Css, Python, Java, GoLang, Flutter
+  * C# (Latest: C# 14 & .NET 10)
+    * APIs (ASP), Database Management, Avalonia, WPF
+  * Web: TypeScript, JavaScript, HTML, CSS, Flutter (Web)
+  * Other: Python, Java, GoLang, Flutter (Mobile)
 * Tools: Git & Github, SQL, PowerBI, SSRS, ERP
 * Interests: full‑stack development, back-end development, front-end development, business process devlopment, manufacturing systems
 
