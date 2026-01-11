@@ -13,7 +13,7 @@ Current Project -> 📅 [Planning Pal](https://planning.keithrm.com/), a sophist
   * TypeScript, HTML, CSS
   * Golang
   * Some Python, Java, Rust
-* Tools: Git & Github, SQL, SSRS, ERP
+* Tools: Git & Github, SQL, PowerBI, SSRS, ERP
 * Interests: full‑stack development, back-end development, front-end development, business process devlopment, manufacturing systems
 
 ## Experience 🔑
@@ -22,3 +22,4 @@ Current Project -> 📅 [Planning Pal](https://planning.keithrm.com/), a sophist
 
 ## Education 🏫
 - B.S. in Computer Science (Aug 2020–Dec 2023)
+- AZ-900 Certified
