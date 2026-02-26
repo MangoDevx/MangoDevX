@@ -17,7 +17,7 @@ Current Project -> 📅 [Planning Pal](https://planning.keithrm.com/), a sophist
 
 ## Experience 🔑
 * **Eaton** — Digital Manufacturing Solutions Software Engineer, Remote (Jan 2024–present)
-* **SR Technologies (now BlueHalo)** — Software Engineering Intern, Sunrise, FL (Apr 2023–Aug 2023) (Return offer received)
+* **SR Technologies (DoD Contract) (now BlueHalo)** — Software Engineering Intern, Sunrise, FL (Apr 2023–Aug 2023) (Return offer received)
 
 ## Education 🏫
 - B.S. in Computer Science (Aug 2020–Dec 2023)
